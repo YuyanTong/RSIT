@@ -14,15 +14,18 @@ a. The codes can be run directly without installation.
 b. No install time is needed.
 
 Instructions for use
+
 input data:
 
 GNSS_Sichuan_20180101_20190111.mat
+
 
 STEP 1: Run Detect_fluctuation_signal.m 
 
 STEP 2: Run Detect_inconsistency_signal.m 
 
 STEP 3: Run Combining_algorithms.m
+
 
 Output：
 A plot of early warning signals and seismic events
