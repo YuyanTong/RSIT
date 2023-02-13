@@ -3,7 +3,7 @@ System requirements:
 
 a. The codes can be run within MATLAB environment on any operating system.
 
-b. We implemented the codes with MATLAB R2018b on Windows 10.
+b. We implemented the codes with MATLAB R2018b.
 
 c. No non-standard hardware is required.
 
