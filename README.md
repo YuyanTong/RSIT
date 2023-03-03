@@ -19,7 +19,7 @@ Instructions for use
 
 input data:
 
-GNSS_Sichuan_20180101_20190111.mat
+GNSS_South_central_Alaska_20180101_20181231.mat
 
 
 STEP 1: Run Detect_fluctuation_signal.m 
